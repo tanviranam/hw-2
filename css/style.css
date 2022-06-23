@@ -1,0 +1,35 @@
+h1{
+   color: red;
+}
+
+.border {
+border: 3px solid black;
+
+}
+
+.bg{
+	background-color: darkred;
+}
+.box{
+	margin-top:-100px;
+	 width: 100%;
+	 height: 270px;
+	 background-color:rgba(0, 0, 0, .5);
+
+}
+
+.boxred{
+	 width: 50%;
+	 height: 270px;
+	background-color: red;
+	margin: 100px 360px;
+	border-left: 10px solid green;
+}
+ 
+ .boxblue{
+ 	width: 50%;
+	 height: 270px;
+
+ 	background-color: blue;
+border: 10px solid red;
+ }
